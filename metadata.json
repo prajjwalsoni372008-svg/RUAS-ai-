@@ -1,0 +1,6 @@
+{
+  "name": "SpecForge",
+  "description": "Authoritative outcome-based curriculum workbench, 2D CO-PO computational matrix mapping engine, Bloom's Taxonomy analyzer, and ABET/NBA accreditation audit suite with AI-assisted correlation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
